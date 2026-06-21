@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-fuego-celestial/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Labios de fuego celestial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fuego-celestial/) |
+| **Get License** | [Commercial Licensing for Labios de fuego celestial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-fuego-celestial/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7ff89ee87ec4e2b6e72fc94946a44672816f406443e053f20c8fb582a6feee57` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
