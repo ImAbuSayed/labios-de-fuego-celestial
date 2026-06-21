@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada me atrapa, fuego en la oscuridad
+> Tus labios saben a noche, puro veneno y ciudad
+> Baby, come a little closer, deja la mente volar
+> Que yo soy adicto al roce de tu cuerpo celestial
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
